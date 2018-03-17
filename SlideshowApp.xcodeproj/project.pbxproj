@@ -12,6 +12,9 @@
 		FC2EBD82205CBFE90076FE74 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC2EBD80205CBFE90076FE74 /* Main.storyboard */; };
 		FC2EBD84205CBFE90076FE74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC2EBD83205CBFE90076FE74 /* Assets.xcassets */; };
 		FC2EBD87205CBFE90076FE74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC2EBD85205CBFE90076FE74 /* LaunchScreen.storyboard */; };
+		FC2EBD8F205CC3780076FE74 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC2EBD8E205CC3780076FE74 /* 1.jpg */; };
+		FC2EBD91205CC38B0076FE74 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC2EBD90205CC38B0076FE74 /* 2.jpg */; };
+		FC2EBD93205CC3910076FE74 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FC2EBD92205CC3910076FE74 /* 3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		FC2EBD83205CBFE90076FE74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC2EBD86205CBFE90076FE74 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC2EBD88205CBFE90076FE74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC2EBD8E205CC3780076FE74 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		FC2EBD90205CC38B0076FE74 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		FC2EBD92205CC3910076FE74 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +62,9 @@
 			children = (
 				FC2EBD7C205CBFE90076FE74 /* AppDelegate.swift */,
 				FC2EBD7E205CBFE90076FE74 /* ViewController.swift */,
+				FC2EBD8E205CC3780076FE74 /* 1.jpg */,
+				FC2EBD90205CC38B0076FE74 /* 2.jpg */,
+				FC2EBD92205CC3910076FE74 /* 3.jpg */,
 				FC2EBD80205CBFE90076FE74 /* Main.storyboard */,
 				FC2EBD83205CBFE90076FE74 /* Assets.xcassets */,
 				FC2EBD85205CBFE90076FE74 /* LaunchScreen.storyboard */,
@@ -124,6 +133,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC2EBD87205CBFE90076FE74 /* LaunchScreen.storyboard in Resources */,
+				FC2EBD8F205CC3780076FE74 /* 1.jpg in Resources */,
+				FC2EBD91205CC38B0076FE74 /* 2.jpg in Resources */,
+				FC2EBD93205CC3910076FE74 /* 3.jpg in Resources */,
 				FC2EBD84205CBFE90076FE74 /* Assets.xcassets in Resources */,
 				FC2EBD82205CBFE90076FE74 /* Main.storyboard in Resources */,
 			);
